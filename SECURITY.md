@@ -25,7 +25,7 @@ When reporting an issue, please include:
 - Steps to reproduce the issue, if possible.
 - Any relevant logs, screenshots, or code snippets.
 
-We will acknoledge your report within **48 hours** an provide an estimated timeline for addressing the issue. Your
+We will acknowledge your report within **48 hours** and provide an estimated timeline for addressing the issue. Your
 efforts in making our project more secure are greatly appreciated!
 
 ## Responsible Disclosure

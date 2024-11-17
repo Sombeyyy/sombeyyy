@@ -1,6 +1,6 @@
 # 👨‍💻 Welcome to my GitHub profile! 🚀
 
-I'm an IT apprentice with a string passion for all things tech. I'm on a mission to automate the world! 🌍⚡️ 
+I'm an IT apprentice with a strong passion for all things tech. I'm on a mission to automate the world! 🌍⚡️ 
 My **specialty**? Automating everything I can with tools like **Docker**, **Ansible**, and **Terraform**. If it can be 
 automated, it **will** be! 😉
 
